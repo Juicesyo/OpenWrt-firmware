@@ -18,3 +18,4 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 git clone https://github.com/Zxilly/UA2F package/UA2F
+git clone https://github.com/Juicesyo/OpenClash package/luci-app-openclash
